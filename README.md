@@ -20,3 +20,5 @@ run Jupyter Lab
 ```
 jupyter-lab
 ```
+## notes
+ * On Win10 not working from default - java8 problem (?)
