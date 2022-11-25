@@ -31,5 +31,7 @@ jupyter-lab
 
 # Trubleshooting
 
+  -  [ ] Java 8 installed
   -  [ ] Check that **JAVA_HOME_CONDA_BACKUP** is set
   -  [ ] Check that **JAVA_HOME** is set
+  -  [ ] IJ can take more than 5 mins to initialize - be patient
